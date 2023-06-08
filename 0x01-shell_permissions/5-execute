@@ -1,0 +1,3 @@
+#!/bin/bash
+hello thi my friend
+chmod u+x hello
